@@ -6,4 +6,8 @@ ignore:
     - '@risingstack/trace > qs':
         reason: None given
         expires: '2017-04-06T01:01:51.426Z'
-patch: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:qs:20170213':
+    - '@risingstack/trace > qs':
+        patched: '2017-03-20T10:35:12.337Z'
