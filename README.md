@@ -1,5 +1,7 @@
 # tacticalmastery api
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/starlightgroup/new-node-api.svg?token=f7586764b2daef630b09a1b065811263aa9746691da8ccb23d47a5754438ae3e)](https://greenkeeper.io/)
+
 `npm start`
 
 
